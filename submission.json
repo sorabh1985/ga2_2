@@ -1,0 +1,7 @@
+{
+  "prompt":"Image depciting this bursting a myth that consanguinity is prevelant in sates with higher muslim population .Constraints 1. No standard chart types (bar, line, pie, scatter) used in isolation or without significant visual transformation. 2. The image must be interpretable without a legend or axis labels — the visual grammar must carry the meaning. 3. Single frame only — no sequences or multi-panel layouts.",
+  "model": "DALL·E 3",
+  "dataset_name": "National Family Health Survey (NFHS-5), 2019-21",
+  "dataset_url": "https://dhsprogram.com/pubs/pdf/FR375/FR375.pdf",
+  "insight": "one sentence: consanguinity is based on regional tradition not on reiigion"
+}
